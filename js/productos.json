@@ -1,0 +1,118 @@
+[
+    {
+        "id": "zapatilla-01",
+        "titulo": "Zapatilla 01",
+        "imagen": "./img/zapatillas/01.jpg" ,
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "zapatilla-02",
+        "titulo": "Zapatilla 02",
+        "imagen": "./img/zapatillas/02.jpg" ,
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "zapatilla-03",
+        "titulo": "Zapatilla 03",
+        "imagen": "./img/zapatillas/03.jpg" ,
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "zapatilla-04",
+        "titulo": "Zapatilla 04",
+        "imagen": "./img/zapatillas/04.jpg" ,
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera 01",
+        "imagen": "./img/remeras/01.jpg" ,
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 100
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera 02",
+        "imagen": "./img/remeras/02.jpg" ,
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 100
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera 03",
+        "imagen": "./img/remeras/03.jpg" ,
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 100
+    },{
+        "id": "remera-04",
+        "titulo": "Remera 04",
+        "imagen": "./img/remeras/04.jpg" ,
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 100
+    },{
+        "id": "pantalon-01",
+        "titulo": "Pantalon 01",
+        "imagen": "./img/pantalones/01.jpg" ,
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },{
+        "id": "pantalon-02",
+        "titulo": "Pantalon 02",
+        "imagen": "./img/pantalones/02.jpg" ,
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },{
+        "id": "pantalon-03",
+        "titulo": "Pantalon 03",
+        "imagen": "./img/pantalones/03.jpg" ,
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },{
+        "id": "pantalon-04",
+        "titulo": "Pantalon 04",
+        "imagen": "./img/pantalones/04.jpg" ,
+        "categoria": {
+            "nombre": "Pantalon",
+            "id": "pantalones"
+        },
+        "precio": 100
+    }
+
+]
